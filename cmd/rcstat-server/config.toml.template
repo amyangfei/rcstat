@@ -1,0 +1,4 @@
+LogFile = './rcstat_server.log'
+LogLevel = 'debug'
+IpcAddr = 'ipc:///tmp/rcstat_server.ipc'
+Plugins = []
